@@ -1,3 +1,3 @@
-# Remove duplicate elements from unsorted linkedlist
+# Remove duplicate consecutive elements from singly-linked list
 
-Write code to remove duplicates from an unsorted list. 
+Write code to remove consecutive duplicate elements from a singly-linked list. 
